@@ -1,8 +1,9 @@
-githubRepoOwner: ejoffe
+githubRepoOwner: hariom-qure
 githubRepoName: spr
 githubHost: github.com
 requireChecks: true
 requireApproval: false
-mergeMethod: rebase
+mergeMethod: squash
 mergeQueue: false
 forceFetchTags: false
+githubBranch: hariom/squash-merge-test
