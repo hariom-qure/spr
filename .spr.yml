@@ -6,4 +6,4 @@ requireApproval: false
 mergeMethod: squash
 mergeQueue: false
 forceFetchTags: false
-githubBranch: hariom/squash-merge-test
+githubBranch: squash-merge-test
